@@ -1,0 +1,25 @@
+{
+    "name": "test test pxt-sockets",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "pxt-sockets": "github:brohann3214/pxt-sockets#915f586587041c080fec7531c04bd2d43073055c"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.46",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
